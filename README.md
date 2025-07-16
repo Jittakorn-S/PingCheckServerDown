@@ -1,9 +1,3 @@
-Of course\! As your "Coding Buddy," I've translated the `README.md` file for your `PingCheckServerDown` project into English.
-
-Here is the beautiful and detailed English version, designed to make your project easily understandable to a broader audience.
-
------
-
 # Ping Check Server Down with LINE Notification
 
 **PingCheckServerDown** is a .NET Framework application designed to automatically monitor the status of servers or network devices and send notifications to your LINE group when their status changes (e.g., from Online to Offline).
@@ -81,5 +75,3 @@ Before running the application, you must configure the `App.config` file, locate
       * Click **Finish** to create the task.
 
 Once configured, the program will run automatically at the scheduled time and send notifications to your LINE group whenever a server's status changes.
-
-I hope this English `README.md` is helpful\! If you need any more help with your code, just ask\!
